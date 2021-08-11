@@ -7,7 +7,6 @@ const LogoCard = ({ src, title }) => {
       alt={title}
       title={title}
       loading="lazy"
-      className="company-logo"
       className={styles.companyLogo}
     />
   );
