@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "indeed",
+        "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Ff%2Ffa%2FIndeed_logo.png&f=1&nofb=1"
+    },
+    {
+        "id": 2,
+        "title": "glassdoor",
+        "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.ctfassets.net%2F9gvb5n00xbqb%2F1HrXd9iQlawQwEga2Gyics%2F034425b389d50b6dbc404454954bd3f6%2Fglassdoor-logo.png&f=1&nofb=1"
+    },
+    {
+        "id": 3,
+        "title": "monster",
+        "src": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogo-logos.com%2Fwp-content%2Fuploads%2F2016%2F11%2FMonster_Jobs_logo_MonsterJobs.png&f=1&nofb=1"
+    },
+    {
+        "id": 4,
+        "title": "CareerBuilder",
+        "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fphotos.prnewswire.com%2Fprnfull%2F20160608%2F377025LOGO%3Fmax%3D200&f=1&nofb=1"
+    },
+    {
+        "id": 5,
+        "title": "job-list",
+        "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd1011j0lbv5k1u.cloudfront.net%2Fassets%2Fstore-493255%2F493255-logo-1553834538.png&f=1&nofb=1"
+    },
+    {
+        "id": 6,
+        "title": "ZipRecruiter",
+        "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*vnGvFjbg1zevCZTmySEyLw.png&f=1&nofb=1"
+    },
+    {
+        "id": 7,
+        "title": "SimplyHired",
+        "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.consumeraffairs.com%2Ffiles%2Fguide-campaign-logos%2FSimplyHired_logo.jpg&f=1&nofb=1"
+    },
+    {
+        "id": 8,
+        "title": "LinkUp",
+        "src": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd171fmx844et9o.cloudfront.net%2Fdistribution_logos%2Flinkup-logo.png&f=1&nofb=1"
+    }
+]

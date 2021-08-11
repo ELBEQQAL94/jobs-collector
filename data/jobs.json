@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Application Developer",
+    "location": "remote",
+    "company": "GWC Warranty",
+    "description": "We are looking for an enthusiastic Entry Level Application Developer to join our software development team. You will report directly to the Application Development Manager and will assist with all functions of software development and design. Your primary focus will be to learn the codebase, actively participate in our process, and respond to requests from senior developers.",
+    "url": "https://www.indeed.com/viewjob?jk=699eaaf324dd273f&tk=1fcqloej1t44q800&from=serp&vjs=3",
+    "date": "20210811",
+    "skills": ["C#", "HTML", "JavaScript"]
+  },
+  {
+    "id": 2,
+    "title": "HTML/Java Developer",
+    "location": "Columbus, OH",
+    "company": "ACS Group",
+    "description": "We are looking for HTML/Java Developer in Columbus, OH",
+    "url": "https://www.indeed.com/viewjob?jk=9d78f6a2a9a7bccb&tk=1fcqloej1t44q800&from=serp&vjs=3",
+    "date": "20210811",
+    "skills": ["HTML", "CSS", "JavaScript", "Java"]
+  },
+  {
+    "id": 3,
+    "title": "Laravel Developer",
+    "location": "Joplin, MO",
+    "company": "Midwestern Interactive, LLC.",
+    "description": "Midwestern is looking to expand by adding a Laravel Developers to our team. This is a great opportunity to join us as Midwestern Interactive continues to grow. You can truly make a difference for our team. You must be self-driven and able to thrive in a fast-paced entrepreneurial environment. While this role focuses on Laravel our shop also uses ReactJS heavily!",
+    "url": "https://www.indeed.com/viewjob?jk=09d4f8b79b16b34f&tk=1fcqm43b83gun001&from=serp&vjs=3",
+    "date": "20210811",
+    "skills": ["Laravel", "HTML", "CSS", "PHP", "JavaScript"]
+  },
+  {
+    "id": 4,
+    "title": "Front End Developer",
+    "location": "Chicago, IL",
+    "company": "Moody Bible Institute",
+    "description": "Under general supervision of the Web Tech Product Manager, work with the various supported technologies to enhance, fix, deploy, integrate and support enterprise products and solutions.",
+    "url": "https://www.indeed.com/viewjob?jk=8f429757871130de&tk=1fcqm53umt5dv800&from=serp&vjs=3",
+    "date": "20210811",
+    "skills": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 5,
+    "title": "Junior Developer - Content Management Systems (CMS)",
+    "location": "Pittsburgh, PA",
+    "company": "American Eagle Outfitters",
+    "description": "Seeking for an enthusiastic junior software developer to join our experienced software design team. You will report directly to the development manager and assist with all functions of software coding and design. Your primary focus will be to learn the codebase, gather user data, and respond to requests from senior developers.",
+    "url": "https://www.indeed.com/viewjob?jk=078cc383cb6116c6&tk=1fcqm62u7t3pf800&from=serp&vjs=3",
+    "date": "20210811",
+    "skills": ["JavaScript", "HTML", "Java"]
+  },
+  {
+    "id": 6,
+    "title": "Python Application Developer",
+    "location": "Remote",
+    "company": "Zachary Piper Solutions",
+    "description": "Zachary Piper Solutions is currently seeking a Python Application Developer for a fully remote opportunity in Arlington, Virginia (VA). This individual will be supporting one of our top Federal integrators working on a unique enterprise position. The individual in this position will be supporting a Federal Agency in. This position is based on an application surrounding high level vision from business- be able to personalize and better cater to users starting with small medium business. The application the developer will be contributing to works to help generate shipping labels. It is an existing app called click and ship. The individual in this position will also assist in the process of helping staff up a team to support and implement features for the application.",
+    "url": "https://www.indeed.com/viewjob?jk=15483a4944889963&tk=1fcqm62u7t3pf800&from=serp&vjs=3",
+    "date": "20210811",
+    "skills": ["Python"]
+  },
+  {
+    "id": 7,
+    "title": "Junior Level PHP Developer",
+    "location": "Tampa, FL ",
+    "company": "American Partner Solutions",
+    "description": "If you are a Jr. PHP Developer with experience, please read on! Located in Tampa, Fl. we are the software division of the Fest Corporation Family of Companies which include American Marketing and Mailing and American Visual Brands.",
+    "url": "https://www.indeed.com/viewjob?jk=d7f72a08348a1437&tk=1fcqmiqqct46f800&from=serp&vjs=3",
+    "date": "20210811",
+    "skills": ["PHP"]
+  },
+  {
+    "id": 8,
+    "title": "Digital Front End Developer",
+    "location": "Menomonee Falls, WI",
+    "company": "KOHLS",
+    "description": "Responsible for coding sale events, department pages, multivariate testing, and other seasonal and creative real estate across all digital channels.",
+    "url": "https://www.indeed.com/viewjob?jk=11e6896fd52908b7&tk=1fcqmjlkusa3a800&from=serp&vjs=3",
+    "date": "20210811",
+    "skills": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "id": 9,
+    "title": "Angular Frontend Developer",
+    "location": "Remote",
+    "company": "Power Fusion Media",
+    "description": "We are a dynamic company, recently ranked in the top 5000 privately held companies in the US by Inc. Magazine! Come and help us continue our trend and have a chance to have your voice and your contribution make a difference every day! Feel the satisfaction that a small company, where you interact directly with ownership, can bring. You will be so much more than a number here at PFM!",
+    "url": "https://www.linkedin.com/jobs/view/2673943443/?alternateChannel=search&refId=2P40kb0xjuFMIQUzReCheA%3D%3D&trackingId=TW6R79y115fmNc7WwEsz8w%3D%3D",
+    "date": "20210811",
+    "skills": ["HTML", "CSS", "JavaScript", "Angular"]
+  },
+  {
+    "id": 10,
+    "title": "React Frontend Developer",
+    "location": "Remote",
+    "company": "Govenda",
+    "description": "Interested in growing with a fast paced SaaS tech company? Ready to do your best work without a lot of red tape holding you back? We’re assembling a superhero team that represents a variety of diverse backgrounds, spectacular life experiences and vibrant perspectives. ",
+    "url": "https://www.linkedin.com/jobs/view/2680707628/?alternateChannel=search&refId=2P40kb0xjuFMIQUzReCheA%3D%3D&trackingId=Rrxc4LN0eSzT2zdwLwivmw%3D%3D&trk=d_flagship3_search_srp_jobs",
+    "date": "20210811",
+    "skills": ["HTML", "CSS", "JavaScript", "REACT"]
+  }
+]
